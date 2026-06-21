@@ -6,6 +6,13 @@ Developer Survey data from 2022, 2023, and 2024.
 
 Built as a Data Mining course project.
 
+## Contributors
+
+- [@hassan](https://github.com/hassan-069)
+- [@ahmed](https://github.com/Ah65med)
+- [@neha](https://github.com/nehalq)
+- [@shayan](https://github.com/sfxdeve)
+
 ## Dashboard Pages
 
 **Home** — overview of the dataset and project summary.
